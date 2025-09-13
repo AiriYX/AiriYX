@@ -130,11 +130,6 @@ I'm a student passionate about the intersection of business and technology. I lo
 
 <div align="center">
   
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AiriYX&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AiriYX&theme=radical&hide_border=true)
-
 ## 🎯 Current Focus
 
 - 🚀 Building projects that combine business insight with programming
