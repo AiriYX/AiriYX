@@ -1,19 +1,17 @@
 # Hi there, I'm Airi! 👋
 
-<div align="center">
-	<img src="https://raw.githubusercontent.com/AiriYX/assets/main/banner-pastel.png" alt="AiriYX Pastel Banner" width="100%"/>
-	<br>
-	[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+Airi!;Welcome+to+my+GitHub+profile!;Business+%26+Programming+Oriented;Exploring+Tech+and+Entrepreneurship;Let's+innovate+together!)](https://git.io/typing-svg)
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F742AE&center=true&random=true&width=435&height=60&lines=Tech+%2B+business%2C+with+style+%F0%9F%8C%B8;Dreaming%2C+building%2C+achieving+%E2%98%81%EF%B8%8F;Blending+design+and+logic+%E2%9C%A8)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 
 I'm a student passionate about the intersection of business and technology. I love learning how programming can drive innovation and solve real-world problems, especially in entrepreneurial and business contexts.
 
 <div align="center">
-	<img src="https://img.shields.io/badge/Student-Business%20%26%20CS-blue?style=for-the-badge" />
-	<img src="https://img.shields.io/badge/Tech%20Enthusiast-Entrepreneurship-green?style=for-the-badge" />
+	<img src="https://img.shields.io/badge/Student-Business%20%26%20CS-ff69b4?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Tech%20Enthusiast-Entrepreneurship-d8bfd8?style=for-the-badge" />
+    
 </div>
+
 
 ---
 
@@ -78,19 +76,14 @@ I'm a student passionate about the intersection of business and technology. I lo
 	</table>
 </div>
 
-## 💻 GitHub Stats
-<div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=AiriYX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiriYX&layout=compact&theme=tokyonight&hide_border=true" />
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=AiriYX&theme=rose_pine&hide_border=true" />
-</div>
+
 
 ## ☁️ Contact
 <div align="center">
 	<a href="https://github.com/AiriYX"><img src="https://img.shields.io/badge/-GitHub-FFC0CB?style=for-the-badge&logo=github&logoColor=white"></a>
-	<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D8CAB8?style=for-the-badge&logo=gmail&logoColor=white"></a>
-	<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-E6E6FA?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-	<a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-B7E4C7?style=for-the-badge&logo=twitter&logoColor=white"></a>
+	<a href="mailto:airiweng@gmail.com"><img src="https://img.shields.io/badge/-Email-D8CAB8?style=for-the-badge&logo=gmail&logoColor=white"></a>
+	<a href="https://linkedin.com/in/airiweng"><img src="https://img.shields.io/badge/-LinkedIn-E6E6FA?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 </div>
 
 ---
@@ -104,7 +97,6 @@ I'm a student passionate about the intersection of business and technology. I lo
 
 <div align="center">
   
-![AiriYX's GitHub stats](https://github-readme-stats.vercel.app/api?username=AiriYX&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AiriYX&layout=compact&theme=radical&hide_border=true)
 
