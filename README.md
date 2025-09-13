@@ -70,7 +70,6 @@ I'm a student passionate about the intersection of business and technology. I lo
 ![Adobe Creative Suite](https://img.shields.io/badge/-Adobe%20Creative%20Suite-FF0000?style=flat-square&logo=adobe-creative-cloud&logoColor=white)
 ![iMovie](https://img.shields.io/badge/-iMovie-5C5C5C?style=flat-square&logo=apple&logoColor=white)
 
-</div>
 ### Business & Productivity Tools
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
