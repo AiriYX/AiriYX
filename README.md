@@ -126,9 +126,7 @@ I'm a student passionate about the intersection of business and technology. I lo
 	<p>"Opportunities don't happen. You create them." – Chris Grosser</p>
 </blockquote>
 
-## 📊 GitHub Stats
 
-<
 ## 🎯 Current Focus
 
 - 🚀 Building projects that combine business insight with programming
