@@ -30,32 +30,61 @@ I'm a student passionate about the intersection of business and technology. I lo
 
 ## 🌸 Skills & Toolkit
 <details>
-	<summary>Show Skills</summary>
-	<div align="center">
-		<img src="https://img.shields.io/badge/Java-FFD6E0?style=for-the-badge&logo=java&logoColor=white" />
-		<img src="https://img.shields.io/badge/Python-E6E6FA?style=for-the-badge&logo=python&logoColor=white" />
-		<img src="https://img.shields.io/badge/C++-B7E4C7?style=for-the-badge&logo=cplusplus&logoColor=white" />
-		<img src="https://img.shields.io/badge/JavaScript-FFFACD?style=for-the-badge&logo=javascript&logoColor=black" />
-		<img src="https://img.shields.io/badge/SQL-FDEBD3?style=for-the-badge&logo=mysql&logoColor=white" />
-		<img src="https://img.shields.io/badge/Git-F9D5A7?style=for-the-badge&logo=git&logoColor=white" />
-		<img src="https://img.shields.io/badge/GitHub-E6E6FA?style=for-the-badge&logo=github&logoColor=white" />
-		<img src="https://img.shields.io/badge/Bash-FFD6E0?style=for-the-badge&logo=gnubash&logoColor=white" />
-		<img src="https://img.shields.io/badge/Linux-B7E4C7?style=for-the-badge&logo=linux&logoColor=black" />
-		<img src="https://img.shields.io/badge/Netlify-FDEBD3?style=for-the-badge&logo=netlify&logoColor=white" />
-		<img src="https://img.shields.io/badge/Vercel-E6E6FA?style=for-the-badge&logo=vercel&logoColor=white" />
-		<img src="https://img.shields.io/badge/Figma-FFD6E0?style=for-the-badge&logo=figma&logoColor=white" />
-		<img src="https://img.shields.io/badge/Microsoft%20Office-D8CAB8?style=for-the-badge&logo=microsoft-office&logoColor=white" />
-		<img src="https://img.shields.io/badge/Google%20Workspace-E6E6FA?style=for-the-badge&logo=google&logoColor=white" />
-		<img src="https://img.shields.io/badge/Adobe%20Creative%20Suite-FFD6E0?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white" />
-		<img src="https://img.shields.io/badge/iMovie-B7E4C7?style=for-the-badge&logo=apple&logoColor=white" />
-		<img src="https://img.shields.io/badge/Excel-FDEBD3?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-		<img src="https://img.shields.io/badge/PowerPoint-E6E6FA?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
-		<img src="https://img.shields.io/badge/Notion-FFD6E0?style=for-the-badge&logo=notion&logoColor=white" />
-		<img src="https://img.shields.io/badge/Trello-B7E4C7?style=for-the-badge&logo=trello&logoColor=white" />
-		<img src="https://img.shields.io/badge/Slack-F9D5A7?style=for-the-badge&logo=slack&logoColor=white" />
-		<img src="https://img.shields.io/badge/VS%20Code-D8CAB8?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-	</div>
+  <summary>Show Skills</summary>
+  <br/>
+
+  <!-- Programming Languages -->
+  <div style="background:#fdf2f8; border-radius:12px; padding:15px; margin:10px 0;">
+    <h3 align="center">👩‍💻 Programming Languages</h3>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Java-FFD6E0?style=for-the-badge&logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-E6E6FA?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-B7E4C7?style=for-the-badge&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-FFFACD?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/SQL-FDEBD3?style=for-the-badge&logo=mysql&logoColor=white" />
+    </p>
+  </div>
+
+  <!-- Tools & Frameworks -->
+  <div style="background:#f3e8ff; border-radius:12px; padding:15px; margin:10px 0;">
+    <h3 align="center">⚙️ Tools & Frameworks</h3>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Git-F9D5A7?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-E6E6FA?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bash-FFD6E0?style=for-the-badge&logo=gnubash&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-B7E4C7?style=for-the-badge&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Netlify-FDEBD3?style=for-the-badge&logo=netlify&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vercel-E6E6FA?style=for-the-badge&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS%20Code-D8CAB8?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    </p>
+  </div>
+
+  <!-- Design & Creative -->
+  <div style="background:#e0f2fe; border-radius:12px; padding:15px; margin:10px 0;">
+    <h3 align="center">🎨 Design & Creative</h3>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Figma-FFD6E0?style=for-the-badge&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Adobe%20Creative%20Suite-FFD6E0?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/iMovie-B7E4C7?style=for-the-badge&logo=apple&logoColor=white" />
+    </p>
+  </div>
+
+  <!-- Productivity & Collaboration -->
+  <div style="background:#ecfccb; border-radius:12px; padding:15px; margin:10px 0;">
+    <h3 align="center">📊 Productivity & Collaboration</h3>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Notion-FFD6E0?style=for-the-badge&logo=notion&logoColor=white" />
+      <img src="https://img.shields.io/badge/Trello-B7E4C7?style=for-the-badge&logo=trello&logoColor=white" />
+      <img src="https://img.shields.io/badge/Slack-F9D5A7?style=for-the-badge&logo=slack&logoColor=white" />
+      <img src="https://img.shields.io/badge/Google%20Workspace-E6E6FA?style=for-the-badge&logo=google&logoColor=white" />
+      <img src="https://img.shields.io/badge/Microsoft%20Office-D8CAB8?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+      <img src="https://img.shields.io/badge/Excel-FDEBD3?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+      <img src="https://img.shields.io/badge/PowerPoint-E6E6FA?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
+    </p>
+  </div>
+
 </details>
+
 
 ## 🌈 Mini Showcase
 <div align="center">
