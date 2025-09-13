@@ -1,9 +1,9 @@
 # Hi there, I'm Airi! 👋
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+Airi!;Welcome+to+my+GitHub+profile!;Business+%26+Programming+Oriented;Exploring+Tech+and+Entrepreneurship;Let's+innovate+together!)](https://git.io/typing-svg)
-
+	<img src="https://raw.githubusercontent.com/AiriYX/assets/main/banner-pastel.png" alt="AiriYX Pastel Banner" width="100%"/>
+	<br>
+	[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+Airi!;Welcome+to+my+GitHub+profile!;Business+%26+Programming+Oriented;Exploring+Tech+and+Entrepreneurship;Let's+innovate+together!)](https://git.io/typing-svg)
 </div>
 
 ## 🚀 About Me
@@ -26,66 +26,79 @@ I'm a student passionate about the intersection of business and technology. I lo
 	<li>🌱 Always learning new skills in tech and business strategy</li>
 </ul>
 
+## 🌸 Skills & Toolkit
+<details>
+	<summary>Show Skills</summary>
+	<div align="center">
+		<img src="https://img.shields.io/badge/Java-FFD6E0?style=for-the-badge&logo=java&logoColor=white" />
+		<img src="https://img.shields.io/badge/Python-E6E6FA?style=for-the-badge&logo=python&logoColor=white" />
+		<img src="https://img.shields.io/badge/C++-B7E4C7?style=for-the-badge&logo=cplusplus&logoColor=white" />
+		<img src="https://img.shields.io/badge/JavaScript-FFFACD?style=for-the-badge&logo=javascript&logoColor=black" />
+		<img src="https://img.shields.io/badge/SQL-FDEBD3?style=for-the-badge&logo=mysql&logoColor=white" />
+		<img src="https://img.shields.io/badge/Git-F9D5A7?style=for-the-badge&logo=git&logoColor=white" />
+		<img src="https://img.shields.io/badge/GitHub-E6E6FA?style=for-the-badge&logo=github&logoColor=white" />
+		<img src="https://img.shields.io/badge/Bash-FFD6E0?style=for-the-badge&logo=gnubash&logoColor=white" />
+		<img src="https://img.shields.io/badge/Linux-B7E4C7?style=for-the-badge&logo=linux&logoColor=black" />
+		<img src="https://img.shields.io/badge/Netlify-FDEBD3?style=for-the-badge&logo=netlify&logoColor=white" />
+		<img src="https://img.shields.io/badge/Vercel-E6E6FA?style=for-the-badge&logo=vercel&logoColor=white" />
+		<img src="https://img.shields.io/badge/Figma-FFD6E0?style=for-the-badge&logo=figma&logoColor=white" />
+		<img src="https://img.shields.io/badge/Microsoft%20Office-D8CAB8?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+		<img src="https://img.shields.io/badge/Google%20Workspace-E6E6FA?style=for-the-badge&logo=google&logoColor=white" />
+		<img src="https://img.shields.io/badge/Adobe%20Creative%20Suite-FFD6E0?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white" />
+		<img src="https://img.shields.io/badge/iMovie-B7E4C7?style=for-the-badge&logo=apple&logoColor=white" />
+		<img src="https://img.shields.io/badge/Excel-FDEBD3?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+		<img src="https://img.shields.io/badge/PowerPoint-E6E6FA?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
+		<img src="https://img.shields.io/badge/Notion-FFD6E0?style=for-the-badge&logo=notion&logoColor=white" />
+		<img src="https://img.shields.io/badge/Trello-B7E4C7?style=for-the-badge&logo=trello&logoColor=white" />
+		<img src="https://img.shields.io/badge/Slack-F9D5A7?style=for-the-badge&logo=slack&logoColor=white" />
+		<img src="https://img.shields.io/badge/VS%20Code-D8CAB8?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+	</div>
+</details>
+
+## 🌈 Mini Showcase
+<div align="center">
+	<table>
+		<tr>
+			<td align="center">
+				<b>📦 <a href="https://github.com/AiriYX/TidyUp">TidyUp</a></b><br>
+				<img src="https://img.shields.io/badge/Python-FFD6E0?style=for-the-badge&logo=python&logoColor=white" />
+				<br><sub>Python CLI that auto-organizes files</sub>
+			</td>
+			<td align="center">
+				<b>🎮 <a href="https://github.com/AiriYX/SnakePlus">Snake+</a></b><br>
+				<img src="https://img.shields.io/badge/Java-E6E6FA?style=for-the-badge&logo=java&logoColor=white" />
+				<br><sub>Java game experiment</sub>
+			</td>
+			<td align="center">
+				<b>🌸 <a href="https://github.com/AiriYX/Portfolio">Portfolio</a></b><br>
+				<img src="https://img.shields.io/badge/Web-B7E4C7?style=for-the-badge&logo=react&logoColor=white" />
+				<br><sub>Personal site & projects</sub>
+			</td>
+		</tr>
+	</table>
+</div>
+
+## 💻 GitHub Stats
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=AiriYX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiriYX&layout=compact&theme=tokyonight&hide_border=true" />
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=AiriYX&theme=rose_pine&hide_border=true" />
+</div>
+
+## ☁️ Contact
+<div align="center">
+	<a href="https://github.com/AiriYX"><img src="https://img.shields.io/badge/-GitHub-FFC0CB?style=for-the-badge&logo=github&logoColor=white"></a>
+	<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D8CAB8?style=for-the-badge&logo=gmail&logoColor=white"></a>
+	<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-E6E6FA?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+	<a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-B7E4C7?style=for-the-badge&logo=twitter&logoColor=white"></a>
+</div>
+
 ---
-### Programming Languages & Frameworks
 
-
-## 📝 Skills & Relevant Coursework
-
-<!-- <div align="center"> -->
-
-### 💻 Technical Skills
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
----
-
-### 📚 Relevant Coursework
-`Software Design` • `Data Structures & Algorithms` • `Digital Logic`  
-`Probability & Statistics` • `Discrete Math` • `Calculus I-III` • `Linear Algebra`
-
----
-
-### 🤝 Soft Skills
-- Leadership & Planning
-- Stakeholder Engagement
-- Communication & Teamwork
-- Creative Problem-Solving
-
----
-
-### 🛠️ Other Tools
-![Microsoft Office](https://img.shields.io/badge/-Office%20Suite-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/-Google%20Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
-![Adobe Creative Suite](https://img.shields.io/badge/-Adobe%20Creative%20Suite-FF0000?style=flat-square&logo=adobe-creative-cloud&logoColor=white)
-![iMovie](https://img.shields.io/badge/-iMovie-5C5C5C?style=flat-square&logo=apple&logoColor=white)
-
-### Business & Productivity Tools
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
-![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
-
-<!-- ### Databases & Cloud
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) -->
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+<blockquote align="center">
+	<h3>Turning possibility into reality — one project at a time.</h3>
+	<p>"Opportunities don't happen. You create them." – Chris Grosser</p>
+</blockquote>
 
 ## 📊 GitHub Stats
 
