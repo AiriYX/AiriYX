@@ -128,14 +128,15 @@ I'm a student passionate about the intersection of business and technology. I lo
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
+<
 ## 🎯 Current Focus
 
 - 🚀 Building projects that combine business insight with programming
 - 💡 Exploring tech entrepreneurship and digital innovation
 
 I'm always open to connecting with fellow students, entrepreneurs, and anyone interested in tech and business!
+
+<div align="center">
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AiriYX)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
