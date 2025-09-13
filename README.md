@@ -1,6 +1,10 @@
 # Hi there, I'm Airi! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F742AE&center=true&random=true&width=435&height=60&lines=Tech+%2B+business%2C+with+style+%F0%9F%8C%B8;Dreaming%2C+building%2C+achieving+%E2%98%81%EF%B8%8F;Blending+design+and+logic+%E2%9C%A8)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Double&duration=4500&pause=1000&color=F742AE&background=E7FBFF00&random=true&width=435&height=60&lines=Tech+%2B+business%2C+with+style+%F0%9F%8C%B8;Dreaming%2C+building%2C+achieving+%E2%98%81%EF%B8%8F;Blending+design+and+logic+%E2%9C%A8)](https://git.io/typing-svg)
+
+</div>
 
 ## 🚀 About Me
 
