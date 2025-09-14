@@ -124,7 +124,9 @@ I'm a student passionate about the intersection of business and technology. I lo
 - 🚀 Building projects that combine business insight with programming
 - 💡 Exploring tech entrepreneurship and digital innovation
 
-I'm always open to connecting with fellow students, entrepreneurs, and anyone interested in tech and business!
+---
+
+I'm always open to connecting with fellow students, entrepreneurs, and anyone interested in tech and business! 👩‍💼
 
 <div align="center">
 
