@@ -119,10 +119,6 @@ I'm a student passionate about the intersection of business and technology. I lo
 
 </div>
 
-<br>
-
-
-
 ## 🎯 Current Focus
 
 - 🚀 Building projects that combine business insight with programming
