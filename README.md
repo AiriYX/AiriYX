@@ -119,12 +119,8 @@ I'm a student passionate about the intersection of business and technology. I lo
 
 </div>
 
----
+<br>
 
-<div align="center">
-	<h3>Turning possibility into reality — one project at a time.</h3>
-	<p>"Opportunities don't happen. You create them." – Chris Grosser</p>
-</div>
 
 
 ## 🎯 Current Focus
@@ -143,7 +139,10 @@ I'm always open to connecting with fellow students, entrepreneurs, and anyone in
 ---
 
   
-### "Opportunities don't happen. You create them." – Chris Grosser
+<div align="center">
+	<h3>Turning possibility into reality — one project at a time.</h3>
+	<p>"Opportunities don't happen. You create them." – Chris Grosser</p>
+</div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AiriYX&color=brightgreen&style=flat-square)
 
