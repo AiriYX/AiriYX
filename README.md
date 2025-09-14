@@ -22,10 +22,10 @@ I'm a student passionate about the intersection of business and technology. I lo
 ## ⚡ Quick Facts
 
 <ul>
-	<li>🎓 Studying Business & Computer Science</li>
-	<li>💡 Passionate about tech innovation & entrepreneurship</li>
-	<li>🤝 Open to student projects, startups, and hackathons</li>
-	<li>🌱 Always learning new skills in tech and business strategy</li>
+	<li>🎓 CS major with a business minor coming soon</li>
+    <li>💡 Passionate about tech innovation & collaboration</li>
+    <li>🎨 Love bringing ideas to life visually</li>
+    <li>🌱 Always learning across tech and business strategy</li>
 </ul>
 
 ## 🌸 Skills & Toolkit
