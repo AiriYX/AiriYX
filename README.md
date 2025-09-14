@@ -121,10 +121,10 @@ I'm a student passionate about the intersection of business and technology. I lo
 
 ---
 
-<blockquote align="center">
+<div align="center">
 	<h3>Turning possibility into reality — one project at a time.</h3>
 	<p>"Opportunities don't happen. You create them." – Chris Grosser</p>
-</blockquote>
+</div>
 
 
 ## 🎯 Current Focus
